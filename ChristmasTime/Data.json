@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Christmas Pudding",
+        "category": "Dessert",
+        "isFavorite": false,
+        "description": "Christmas pudding is a type of pudding traditionally served as part of the Christmas dinner in Britain, Ireland and in other countries where it has been brought by British and Irish immigrants. It has its origins in medieval England, and is sometimes known as plum pudding or just pud, though this can also refer to other kinds of boiled pudding involving dried fruit. Despite the name plum pudding, the pudding contains no actual plums due to the pre-Victorian use of the word plums as a term for raisins.",
+        "imageName": "ChristmasPudding"
+    },
+    {
+        "name": "Eggnog",
+        "category": "Drink",
+        "isFavorite": true,
+        "description": "Eggnog (/ˈɛɡˌnɒɡ/), historically also known as a milk punch or an egg milk punch when alcoholic beverages are added, is a rich, chilled, sweetened, dairy-based beverage. It is traditionally made with milk, cream, sugar, whipped egg yolks, and egg whites (which gives it a frothy texture, and its name). Distilled spirits such as brandy, rum, whisky or bourbon are often a key ingredient.",
+        "imageName": "Eggnog"
+    },
+    {
+        "name": "Gingerbread House",
+        "category": "Dessert",
+        "isFavorite": true,
+        "description": "A gingerbread house is a novelty confectionery shaped like a building that is made of cookie dough, cut and baked into appropriate components like walls and roofing. The usual material is crisp ginger biscuit made of gingerbread – the ginger nut. Another type of model-making with gingerbread uses a boiled dough that can be moulded like clay to form edible statuettes or other decorations. These houses, covered with a variety of candies and icing, are popular Christmas decorations.",
+        "imageName": "GingerbreadHouse"
+    },
+    {
+        "name": "Shortbread",
+        "category": "Dessert",
+        "isFavorite": false,
+        "description": "Shortbread or shortie is a traditional Scottish biscuit usually made from one part white sugar, two parts butter, and three to four parts plain wheat flour. Unlike many other biscuits and baked goods, shortbread does not contain any leavening, such as baking powder or baking soda. Shortbread is widely associated with Christmas and Hogmanay festivities in Scotland, and some Scottish brands are exported around the world.",
+        "imageName": "Shortbread"
+    },
+    {
+        "name": "Mulled wine",
+        "category": "Drink",
+        "isFavorite": false,
+        "description": "Mulled wine, also known as spiced wine, is an alcoholic drink usually made with red wine along with various mulling spices and sometimes raisins, served hot or warm.[1] It is a traditional drink during winter, especially around Christmas.[2] It is served at Christmas markets in Europe. There are non-alcoholic versions of it. Vodka-spiked mulled wine can be found in Polish Christmas markets, where mulled wine is being used as a mixer.",
+        "imageName": "MulledWine"
+    }
+]
+
